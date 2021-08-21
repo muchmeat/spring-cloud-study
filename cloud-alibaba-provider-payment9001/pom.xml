@@ -13,6 +13,7 @@
 
     <dependencies>
 
+        <!--spring-cloud-alibaba nacos服务注册/发现的依赖-->
         <dependency>
             <groupId>com.alibaba.cloud</groupId>
             <artifactId>spring-cloud-starter-alibaba-nacos-discovery</artifactId>
