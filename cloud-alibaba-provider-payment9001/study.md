@@ -38,11 +38,13 @@
 
 # 测试
 
-启动主启动类 访问
+启动主启动类，访问
 
 ```http request
 http://localhost:9001/payment/nacos/1
 ```
+# 负载均衡
+使用IDEA的虚拟端口映射
 
 #### 插曲
 

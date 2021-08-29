@@ -10,6 +10,7 @@
   <modules>
     <module>cloud-api-commons</module>
       <module>cloud-alibaba-provider-payment9001</module>
+    <module>cloud-alibaba-consumer-nacos-order83</module>
   </modules>
 
   <!-- 这里添加，注意不是jar或war -->
